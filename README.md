@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8b61c2&text=Bowen%20Gu&stroke=8b61c2&fontColor=80808075&desc=DevSecOps%20Engeneer,%20RoboCon%20Oxfordshire&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8b61c2&text=Bowen%20Gu&stroke=8b61c2&fontColor=80808075&desc=DevSecOps%20Engineer,%20RoboCon%20Oxfordshire&descAlignY=70"/>
 </p>
 
 ## About  Me
