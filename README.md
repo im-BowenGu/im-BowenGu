@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8b61c2&text=Bowen%20Gu&stroke=8b61c2&fontColor=80808075&desc=DevSecOps%20Engeneer,%20RoboCon%20Oxfordshire&descAlignY=70"/>
+</p>
 
-<!--
-**im-BowenGu/im-BowenGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About  Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bowen Gu
+- 📍 I'm currently studying at Abingdon School
+- 📍 I'm from Shanghai, China
+- 🌱 I’m currently learning Go for building Backends
+- 💬 Ask me about Linux/Unix or Cybersecurity (It's the only 2 things I am quite good at)
+- 😄 Pronouns: he/him
